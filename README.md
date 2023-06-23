@@ -5,6 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing Webapplications using React.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology,2023.
 - 🌱 &nbsp; Learning more about Fullstack Development at Nxtwave.
+- 📫 Contact me at **sspchowdary00@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -18,7 +19,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
