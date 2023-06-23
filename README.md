@@ -35,11 +35,8 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sspchowdary.sspchowdary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sspchowdary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PavanKunchala4)
-</p>
 
 ⭐️ From [SspStark](https://github.com/SspStark)
 <!--
