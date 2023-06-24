@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing Webapplications using React.
-- 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology,2023.
+- 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
 - 🌱 &nbsp; Learning more about Fullstack Development at Nxtwave.
 - 📫 Contact me at **sspchowdary00@gmail.com**
 
