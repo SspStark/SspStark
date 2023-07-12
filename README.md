@@ -28,7 +28,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-[[SspStark's GitHub stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true&theme=radical)](https://github.com/SspStark/github-readme-stats)
+[[SspStark's GitHub stats](https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true&theme=radical)](https://github.com/SspStark/github-readme-stats)
 <br/>
 
 
