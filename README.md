@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SspStark</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing Webapplications using React.
+- 🤔 &nbsp; Exploring new technologies and developing Web applications using React.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
-- 🌱 &nbsp; Learning more about Fullstack Development at Nxtwave.
+- 🌱 &nbsp; Learning more about Full Stack Development at Nxtwave.
 - 📫 Contact me at **sspchowdary00@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -27,9 +27,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+</br>
 ## ⚙️ GitHub Analytics
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&count_private=true&show_icons=true&theme=algolia" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&count_private=true&show_icons=true&theme=algolia" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SspStark&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
