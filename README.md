@@ -29,18 +29,8 @@
 
 ## ⚙️ GitHub Analytics
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStarkcount_private=true&show_icons=true&theme=algolia" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SspStark&show_icons=true&locale=en&layout=compact" align = "center"/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true&theme=algolia"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true" />
-</picture>
 </p>
 <br/>
 
