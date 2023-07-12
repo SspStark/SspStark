@@ -29,6 +29,7 @@
 
 ## ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sspstark&show_icons=true&locale=en&layout=compact" alt="sspstark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true&theme=algolia"
