@@ -28,14 +28,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SspStark)](https://github.com/SspStark/github-readme-stats)
+[[SspStark's GitHub stats](https://github-readme-stats.vercel.app/api?username=SspStark)](https://github.com/SspStark/github-readme-stats)
 <br/>
 
-<img src="https://camo.githubusercontent.com/d972b2456ee60cde9cd07dcae8d1195edf8a52c751f50f31cbfbc327fd809273/68747470733a2f2f692e696d6775722e636f6d2f496154755964532e706e67" alt="default" data-canonical-src="https://i.imgur.com/IaTuYdS.png" style="max-width: 100%;" width=400>
-<br/>
-<br/>
-
-</br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sspchowdary.sspchowdary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sspchowdary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssp-63b901270/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssp_stark)
