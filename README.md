@@ -1,44 +1,27 @@
-<h1 align="center">💫Pavan Kunchala</h1>
-<h3 align="center">Passionate Web Developer From India</h3>
+<h1 align="center">Hi 👋, I'm SspStark</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-This is the place where I opensource stuff and break things 🤣
-- 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
-- 👨‍💻 I'm currently learning Full Stack web development
-- 📫 How to reach me: **pavankunchala54@gmail.com**
-- ⚡ Fun fact: I ❤️ our 🌍
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sspstark&label=Profile%20views&color=0e75b6&style=flat" alt="sspstark" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/PavanKunchala4) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sspstark" alt="sspstark" /></a> </p>
 
-## 🎯 Things I code with:
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px">](https://html.com/)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35px">](https://en.wikipedia.org/wiki/CSS)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px">](https://en.wikipedia.org/wiki/C_(programming_language))</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">](https://www.javascript.com/)</span>&nbsp;
+- 🌱 I’m currently learning **React**
 
-## 🔥 Tools I use:
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35px">](https://www.npmjs.com/)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">](https://code.visualstudio.com/)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35px">](https://git-scm.com/)</span>&nbsp;
-<span>[<img src="./github.svg" width="45px">](https://github.com/)</span>&nbsp;
-<span>[<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="35px">](https://www.postman.com/)</span>&nbsp;
+- 📫 How to reach me **sspchowdary00@gmail.com**
 
-<!-- ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipavanteja&show_icons=true&theme=tokyonight) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sspstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sspstark" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai siva prasad boddapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai siva prasad boddapati" height="30" width="40" /></a>
+<a href="https://fb.com/sspchowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sspchowdary" height="30" width="40" /></a>
+<a href="https://instagram.com/sspchowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sspchowdary" height="30" width="40" /></a>
+</p>
 
-## ⚙️ GitHub Analytics
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/ipavanteja">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/ipavanteja">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sspstark&show_icons=true&locale=en&layout=compact" alt="sspstark" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en" alt="sspstark" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
