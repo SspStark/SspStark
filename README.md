@@ -29,7 +29,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sspstark&show_icons=true&locale=en&layout=compact" alt="sspstark" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sspstark&show_icons=true&locale=en alt="sspstark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en" alt="sspstark" /></p>
 
