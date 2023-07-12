@@ -28,8 +28,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## ⚙️ GitHub Analytics
-<div>
+
 <picture>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sspstark&show_icons=true&locale=en&layout=compact" alt="sspstark" /></p>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SspStark&show_icons=true&theme=algolia"
     media="(prefers-color-scheme: dark)"
@@ -42,7 +43,6 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&layout=compact)
-</div>
 <br/>
 
 ## 🌐 Socials:
