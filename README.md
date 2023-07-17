@@ -30,10 +30,20 @@
 
 ## ⚙️ GitHub Analytics
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&count_private=true&show_icons=true&theme=algolia" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SspStark&show_icons=true&locale=en&layout=compact" align = "center"/>
-</p>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/SspStark">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SspStark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/SspStark">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SspStark&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
 <br/>
 
