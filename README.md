@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing Web applications using React.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
 - 🌱 &nbsp; Learning more about Full Stack Development at Nxtwave.
-- 📫 Contact me at **sspchowdary00@gmail.com**
+- 📫 &nbsp; Contact me at **sspchowdary00@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
