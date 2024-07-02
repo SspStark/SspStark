@@ -13,9 +13,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
