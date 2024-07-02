@@ -13,7 +13,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEX///8AAABPT08AAABra2sAAAD4+Pjv7+/g4OBOTk5YWFhJSUl8fHyPj4/b29sAAADa2trv7+/u7u4iIiLKysqFhYXAQEBfX19JSUlZWVlHR0cVFRURERGVlZXIyMhTU1NsbGxYWFhpaWljY2MYGBjBwcHCwsI8PDwREREwMDAWFhYdHR09PTwPDw/rOA6uAAAAJXRSTlMAAQMEBQYICQoLDQ4QERITFBUWGBkbGxwdHh8gIiQlJicoKS0uLzAxMjM3ODk6P0H6EfsAAABiSURBVBgZBcEHEoAwDADBX4Xhu1bF23//jsBu0ogSZAzD6AnJlSZEZFKcUEog1AtD+j9XQEkFYJTYVyo4FDeE3RjtVZsDrXmdX4KqAwfqTXh2tZ9KKqjfKnJ63fYALMH4w1ZCAadAAAAABJRU5ErkJggg==)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
