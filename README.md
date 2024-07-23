@@ -36,12 +36,12 @@
 
 
 ## ⚙️ GitHub Analytics
-
+<!--
 <a href="https://github.com/SspStark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
 </a>
-<!--
+-->
 <table style="border: none;">
   <tr>
     <td style="border: none;">
@@ -57,7 +57,6 @@
   </tr>
 </table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
--->
 <br/>
 
 ## 🌐 Socials:
