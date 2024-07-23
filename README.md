@@ -37,6 +37,11 @@
 
 ## ⚙️ GitHub Analytics
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+<!--
 <table style="border: none;">
   <tr>
     <td style="border: none;">
@@ -52,6 +57,7 @@
   </tr>
 </table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
+-->
 <br/>
 
 ## 🌐 Socials:
