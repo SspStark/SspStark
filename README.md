@@ -37,7 +37,7 @@
 
 ## ⚙️ GitHub Analytics
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/SspStark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
 </a>
