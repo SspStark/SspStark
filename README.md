@@ -41,7 +41,7 @@
   <tr>
     <td style="border: none;">
       <a href="https://github.com/SspStark">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sspstark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sspstark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&exclude_repo=repo1,repo2"/>
       </a>
     </td>
     <td style="border: none;">
