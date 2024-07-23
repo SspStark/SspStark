@@ -51,7 +51,7 @@
     </td>
     <td style="border: none;">
       <a href="https://github.com/SspStark">
-        <img height="170em" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=sspstark&theme=gruvbox_light&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=sspstark&theme&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
         
       </a>
     </td>
