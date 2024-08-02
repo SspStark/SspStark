@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing Web applications using React.
+- 🤔 &nbsp; Exploring new technologies and developing Web applications with MERN Stack and Java Full-Stack.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
 - 🖥️  See my portfolio at [SSP-Portfolio](https://ssp-portfolio.vercel.app/)
-- 🌱 &nbsp; Learning more about Full Stack Development at Nxtwave.
+- 🌱 &nbsp; Completed Full Stack Development at Nxtwave.
 - 📫 &nbsp; Contact me at **sspchowdary00@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
