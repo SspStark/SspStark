@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing Web applications with MERN Stack and Java Full-Stack.
+- 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
 - 🖥️  See my portfolio at [SSP-Portfolio](https://ssp-portfolio.vercel.app/)
 - 🌱 &nbsp; Completed Full Stack Development at Nxtwave.
