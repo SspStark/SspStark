@@ -42,6 +42,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat&logo=Hibernate&logoColor=76A844 )
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-2C2C2C?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
