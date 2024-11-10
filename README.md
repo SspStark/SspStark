@@ -11,7 +11,7 @@
 - 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1Xee5WtM2GEGldkMs31aSvdqE4JYN7Z7l/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,redux,nextjs,html,css,tailwind,mongodb,sqlite,spring,hibernate,selenium,cucumber,git,github,idea,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,redux,nextjs,html,css,tailwind,mongodb,sqlite,spring,hibernate,selenium,git,github,idea,vscode,postman)](https://skillicons.dev)
 
 <!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
