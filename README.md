@@ -57,22 +57,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
 </a>
 -->
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://github.com/SspStark">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sspstark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&exclude_repo=repo1,repo2"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/SspStark">
-        <img height="170em" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=sspstark&layout=compact&langs_count=8&theme=algio&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en" alt="sspstark" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
-<br/>
 
 
 ![](https://komarev.com/ghpvc/?username=sspstark&color=blue&style=square&base=100)
