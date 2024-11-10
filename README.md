@@ -11,7 +11,8 @@
 - 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1Xee5WtM2GEGldkMs31aSvdqE4JYN7Z7l/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="C" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="C" /></a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="HTML" /></a>
 <a href="https://css3.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="CSS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="Tailwind" /></a>
@@ -26,10 +27,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="Bash" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.linux.com/what-is-linux/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="Linux" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 
 <!--
