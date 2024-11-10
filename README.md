@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SspStark</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<h3> About Me </h3>
+## About Me
 
 - 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
 - 🌱 &nbsp; I’m currently learning **AI/ML and DSA**.
@@ -78,14 +78,10 @@
 -->
 
 ## ⚙️ GitHub Analytics
-<!--
 <a href="https://github.com/SspStark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=radicle&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=radicle&layout=compact" />
 </a>
--->
-<img src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="sspstark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspstark&theme=radical&layout=compact" alt="sspstark" />
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
 
 
