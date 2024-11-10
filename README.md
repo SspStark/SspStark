@@ -39,28 +39,33 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-2C2C2C?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000)
+  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
+  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-D4D4E7?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
 - 🛠 &nbsp;
-  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-  ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/-Cucumber-2F4F4F?style=flat&logo=Cucumber)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3178C6?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 
 
 ## Socials
