@@ -33,6 +33,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" height="36" alt="VSCode" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="36" height="36" alt="IDEA" /></a>
+
 <!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
