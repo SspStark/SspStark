@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SspStark</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> About Me </h3>
 
 - 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
 - 🌱 &nbsp; I’m currently learning **AI/ML and DSA**.
