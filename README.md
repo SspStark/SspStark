@@ -56,7 +56,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
 </a>
 -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="sspstark" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="sspstark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspstark&theme=radical&layout=compact" alt="sspstark" />
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
 
