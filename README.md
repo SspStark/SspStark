@@ -56,8 +56,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=buefy&layout=compact" />
 </a>
 -->
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="sspstark" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspstark&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="sspstark" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en&theme=radical&hide=issues&count_private=true&include_all_commits=true" alt="sspstark" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspstark&theme=radical" alt="sspstark" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
 
 
