@@ -11,7 +11,6 @@
 - 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1Xee5WtM2GEGldkMs31aSvdqE4JYN7Z7l/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
-(https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,redux,nextjs,html,css,tailwind,mongodb,sqlite,spring,hibernate,selenium,git,github,idea,vscode,
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" height="36" alt="Python" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" height="36" alt="Java" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" /></a>
@@ -29,7 +28,6 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="36" height="36" alt="SQLite" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="36" height="36" alt="Selenium" /></a>
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cucumber&theme=dark" width="36" height="36" alt="Cucumber" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
