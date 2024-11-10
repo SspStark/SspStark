@@ -78,10 +78,14 @@
 -->
 
 ## ⚙️ GitHub Analytics
-<a href="https://github.com/SspStark" align-items="flex-start">
+
+<!--
+<a href="https://github.com/SspStark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=radical&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=radical&layout=compact" />
-</a>
+</a> -->
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=radical&show_icons=true&hide=issues&count_private=true&include_all_commits=true" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
 
 
