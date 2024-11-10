@@ -59,7 +59,8 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&theme=radical)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sspstark&show_icons=true&locale=en" alt="sspstark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&" alt="sspstark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=sspstark&color=blue&style=square&base=100)
