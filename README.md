@@ -95,15 +95,15 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SspStark&theme=radical&show_icons=true&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=radical&layout=compact&langs_count=10" alt="Top Languages" style="height: 170px;/>
-    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SspStark&theme=radical&layout=compact&langs_count=10" alt="Top Languages" style="height: 170px;" />
 </div>
-    
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sspstark&theme=dark" alt="sspstark" /></p>
+
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SspStark&theme=dark" alt="GitHub Streak Stats" />
+</p>
 
 
-
-![](https://komarev.com/ghpvc/?username=sspstark&color=blue&style=square&base=100)
+![](https://komarev.com/ghpvc/?username=SspStark&color=blue&style=square&base=100)
 <!--
 **SspStark/SspStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
