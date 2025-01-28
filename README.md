@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
+- 🤔 &nbsp; Passionate about developing web applications with MERN & MEAN stack and Java Spring Boot, continuously exploring new technologies.
 - 🌱 &nbsp; I’m currently learning **AI/ML and DSA**.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
 - 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/)
