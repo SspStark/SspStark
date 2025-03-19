@@ -52,7 +52,7 @@
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
   ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
-  ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-D4D4E7?style=flat&logo=bootstrap&logoColor=563D7C)
