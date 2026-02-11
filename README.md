@@ -6,9 +6,9 @@
 - 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
 - 🌱 &nbsp; I’m currently working as a Full-Stack Developer at Groundhog Apps.
 - 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
-- 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/)
+<!-- - 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/) -->
 - 📫 &nbsp; How to reach me **sspboddapati@gmail.com**
-- 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1Xee5WtM2GEGldkMs31aSvdqE4JYN7Z7l/view?usp=sharing)
+- 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1bM6X4uRu1NwPrwTsojNEAaSanzaDrOF8/view?usp=sharing)
 
 <!--
 ## Languages and Tools
