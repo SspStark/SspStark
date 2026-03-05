@@ -36,7 +36,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="36" height="36" alt="IDEA" /></a>
 -->
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h2 align="left">🛠 Tech Stack</h2>
 
 ### 💻 Languages
 
