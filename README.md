@@ -53,6 +53,7 @@
   ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
   ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-D4D4E7?style=flat&logo=bootstrap&logoColor=563D7C)
