@@ -36,44 +36,54 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="36" height="36" alt="IDEA" /></a>
 -->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat&logo=Hibernate&logoColor=76A844 )
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-2C2C2C?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000)
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
-  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-D4D4E7?style=flat&logo=bootstrap&logoColor=563D7C)
-  
-- 🛢 &nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
-  
-- 🛠 &nbsp;
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
-  ![Cucumber](https://img.shields.io/badge/-Cucumber-2F4F4F?style=flat&logo=Cucumber)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3178C6?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat\&logo=hibernate\&logoColor=white)
+
+### 🛢 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+
+### 🧪 Testing & API Tools
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat\&logo=cucumber\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+
+### 🔧 IDE & Tools
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat\&logo=intellij-idea\&logoColor=white)
+
+### 🔗 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
 
 
 ## Socials
