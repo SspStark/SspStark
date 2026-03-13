@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Siva Prasad </h1>
 <h3 align="center">Full Stack Developer | MEAN / MERN | Java Spring Boot</h3>
 
-## About Me
+## 👨‍💻 About Me
 
-- 🤔 &nbsp; Passionate about developing web applications with MERN stack and Java Spring Boot, continuously exploring new technologies.
-- 🌱 &nbsp; I’m currently working as a Full-Stack Developer at Groundhog Apps.
-- 🎓 &nbsp; Graduated Computer Science & Engineering at QIS College of Engineering & Technology, 2023.
+- 💼 Full Stack Developer at **Groundhog Apps**
+- 🚀 Building scalable web applications using **Angular, React, Node.js, and Spring Boot**
+- 🧠 Exploring **Next.js and System Design**
+- 📚 Practicing **Data Structures & Algorithms** to strengthen problem solving
+<!-- - 🤖 Learning **Machine Learning** alongside full-stack development -->
+- 🎓 B.Tech in **Computer Science & Engineering (2023)** – QIS College of Engineering & Technology
 <!-- - 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/) -->
 - 📫 &nbsp; How to reach me **sspboddapati@gmail.com**
 - 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1bM6X4uRu1NwPrwTsojNEAaSanzaDrOF8/view?usp=sharing)
