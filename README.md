@@ -7,11 +7,11 @@
 - 🚀 Building scalable web applications using **Angular, React, Node.js, and Spring Boot**
 - 🧠 Exploring **Next.js and System Design**
 - 📚 Practicing **Data Structures & Algorithms** to strengthen problem solving
-<!-- - 🤖 Learning **Machine Learning** alongside full-stack development -->
 - 🎓 B.Tech in **Computer Science & Engineering (2023)** – QIS College of Engineering & Technology
-<!-- - 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/) -->
 - 📫 &nbsp; How to reach me **sspboddapati@gmail.com**
 - 📄 &nbsp; Know about my experiences [Ssp Resume.pdf](https://drive.google.com/file/d/1bM6X4uRu1NwPrwTsojNEAaSanzaDrOF8/view?usp=sharing)
+  <!-- - 🤖 Learning **Machine Learning** alongside full-stack development -->
+  <!-- - 👨‍💻 &nbsp; All of my projects are available at [SSP-Portfolio](https://ssp-portfolio.vercel.app/) -->
 
 <!--
 ## Languages and Tools
